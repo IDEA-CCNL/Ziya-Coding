@@ -1,14 +1,4 @@
----
-license: gpl-3.0
-language:
-- zh
-- en
-library_name: transformers
-pipeline_tag: text-generation
----
-
 # Ziya-Coding-34B-v1.0
-
 
 # 姜子牙系列模型
 
